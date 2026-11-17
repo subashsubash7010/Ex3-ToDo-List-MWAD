@@ -1,9 +1,9 @@
-## Ex03 To-Do List using JavaScript
+## Ex_03 : To-Do List using JavaScript
 ## Date :17.11.2026
 ## AIM : 
 To create a To-do Application with all features using JavaScript.
 
-## ALGORITHM
+## ALGORITHM : 
 ## STEP 1
 Build the HTML structure (index.html).
 
@@ -872,8 +872,8 @@ initDates();
 render();
 ```
 
-OUTPUT : 
+# OUTPUT : 
 ![alt text](<Screenshot 2026-11-17 133325.png>)
 
-RESULT : 
+# RESULT : 
 The program for creating To-do list using JavaScript is executed successfully.
