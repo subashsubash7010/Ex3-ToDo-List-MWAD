@@ -36,7 +36,7 @@ Upload to GitHub Pages for free hosting.
 
 ## PROGRAM : 
 index.html : 
-'''
+```
 <!doctype html>
 <html lang="en">
   <head>
@@ -253,9 +253,9 @@ index.html :
     <div class="toast" id="toast" role="status" aria-live="polite"></div>
   </body>
 </html>
-'''
+```
 style.css:
-'''
+```
 :root {
   font-family: "DM Sans", sans-serif;
   color: #242d2b;
@@ -540,9 +540,9 @@ kbd { padding: 2px 5px; border: 1px solid #e8ece9; border-radius: 4px; color: #a
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; }
 }
-'''
+```
 app.js
-'''
+```
 "use strict";
 
 const STORAGE_KEY = "daylight-tasks-v1";
@@ -870,12 +870,10 @@ document.addEventListener("keydown", (event) => {
 
 initDates();
 render();
-'''
+```
 
 OUTPUT : 
 ![alt text](<Screenshot 2026-11-17 133325.png>)
 
 RESULT : 
-The program for creating To-do list using JavaScript is executed successfully.#   E x 3 - T o D o - L i s t - M W A D 
- 
- 
+The program for creating To-do list using JavaScript is executed successfully.
